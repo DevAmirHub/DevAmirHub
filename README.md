@@ -1,62 +1,49 @@
-<h1 align="center">👋 Hi, I'm Amir Fallahi — DevAmirHub</h1>
+<h1 align="center">🌀 Amir Fallahi — 3D Web Developer</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="260" alt="3D Animation">
 </p>
 
 <p align="center">
-  <b>Full-Stack Web Developer | WordPress Plugin Developer | React & Three.js Enthusiast</b>
-</p>
-
----
-
-## 🚀 About Me  
-I’m a passionate full-stack developer who enjoys crafting clean, modern, and scalable solutions.  
-I love exploring diverse technologies—experimenting, learning, and integrating new tools into real products.  
-My core strengths are **WordPress plugin development**, **React**, and **Three.js**, with a constant desire to push boundaries.
-
----
-
-## 🛡️ Badges & Tech Stack
-
-<p align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Language-PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-
-<br/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react" />
-
-<br/>
-
-<!-- Backend / CMS -->
-<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" />
-
-<br/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-
+  <b>Full-Stack Developer specializing in WordPress Plugins, React, and 3D Web Experiences (Three.js & R3F)</b>
 </p>
 
 ---
 
-## 🧠 Skills  
-- PHP / WordPress Plugin Development  
+## 🌌 Who Am I?
+
+I’m a developer who loves building immersive web experiences and exploring cutting-edge technology.  
+Whether it's **interactive 3D scenes**, **clean UI components**, or **powerful WordPress plugins**,  
+I constantly explore and evolve—always learning new tools to push my craft forward.
+
+I believe in writing maintainable, readable, and future-proof code.
+
+---
+
+## 🎛️ 3D / Frontend / Backend Skillset
+
+### 🧩 Core Languages
 - JavaScript (ES6+)  
-- React & Tailwind CSS  
-- Three.js & React Three Fiber  
-- API Integration  
-- Clean Architecture & Modular Code  
-- Git / GitHub Workflow  
+- PHP  
+
+### 🌀 3D & Interactive Web
+- **Three.js**  
+- **React Three Fiber**  
+- 3D Materials, Lighting, Animation  
+- Scene Optimization / Performance  
+
+### 🎨 Frontend Frameworks  
+- React  
+- Tailwind CSS  
+
+### 🔧 Backend & CMS  
+- WordPress Plugin Development  
+- Custom APIs / REST Integration  
+
+### 🛠️ Tools  
+- Git / GitHub  
+- Vite / Webpack  
+- Modular Architecture  
 
 ---
 
