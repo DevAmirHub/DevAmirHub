@@ -1,49 +1,63 @@
-<h1 align="center">🌀 Amir Fallahi — 3D Web Developer</h1>
+<h1 align="center">👋 Hi, I'm Amir Fallahi — DevAmirHub</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="260" alt="3D Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF">
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer specializing in WordPress Plugins, React, and 3D Web Experiences (Three.js & R3F)</b>
+  <b>Full-Stack Web Developer | WordPress & Laravel | React, Next.js & Three.js Enthusiast</b>
 </p>
 
 ---
 
-## 🌌 Who Am I?
-
-I’m a developer who loves building immersive web experiences and exploring cutting-edge technology.  
-Whether it's **interactive 3D scenes**, **clean UI components**, or **powerful WordPress plugins**,  
-I constantly explore and evolve—always learning new tools to push my craft forward.
-
-I believe in writing maintainable, readable, and future-proof code.
+## 🚀 About Me  
+I’m a passionate full-stack developer who enjoys crafting clean, modern, and scalable solutions.  
+I love exploring diverse technologies—experimenting, learning, and integrating new tools into real products.  
+My core strengths are **WordPress & Laravel development**, **React, Next.js**, and **Three.js**, with a constant desire to push boundaries.
 
 ---
 
-## 🎛️ 3D / Frontend / Backend Skillset
+## 🛡️ Badges & Tech Stack
 
-### 🧩 Core Languages
-- JavaScript (ES6+)  
-- PHP  
+<p align="center">
 
-### 🌀 3D & Interactive Web
-- **Three.js**  
-- **React Three Fiber**  
-- 3D Materials, Lighting, Animation  
-- Scene Optimization / Performance  
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Language-PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 
-### 🎨 Frontend Frameworks  
-- React  
-- Tailwind CSS  
+<br/>
 
-### 🔧 Backend & CMS  
-- WordPress Plugin Development  
-- Custom APIs / REST Integration  
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react" />
 
-### 🛠️ Tools  
-- Git / GitHub  
-- Vite / Webpack  
-- Modular Architecture  
+<br/>
+
+<!-- Backend / CMS -->
+<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+
+</p>
+
+---
+
+## 🧠 Skills  
+- PHP / Laravel / WordPress Plugin Development  
+- JavaScript (ES6+) / React / Next.js / Tailwind CSS  
+- Three.js & React Three Fiber (3D Web)  
+- API Integration  
+- Clean Architecture & Modular Code  
+- Git / GitHub Workflow  
 
 ---
 
@@ -57,4 +71,3 @@ I believe in writing maintainable, readable, and future-proof code.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevAmirHub&show_icons=true" />
 </p>
-
