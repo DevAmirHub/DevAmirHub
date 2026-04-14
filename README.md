@@ -61,6 +61,7 @@ Additionally, I’m mindful of **UI/UX principles**, ensuring that the systems I
 - WordPress Plugin & Custom Development  
 - Familiar with Frontend (React / Next.js / Tailwind CSS / Three.js)
 - Familiar with JS | NodeJs | NestJs | ExpressJS
+- Familiar with Livewire3 & AlpineJs
 - Design Patterns & MVC Architecture  
 - Clean Architecture & Modular Code  
 - UI/UX Principles Awareness  
