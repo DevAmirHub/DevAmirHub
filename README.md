@@ -5,15 +5,19 @@
 </p>
 
 <p align="center">
-  <b>Web Developer | WordPress & Laravel | React, Next.js & Three.js Enthusiast</b>
+  <b>Backend Developer | Laravel & WordPress Specialist | Familiar with Modern Frontend Technologies</b>
 </p>
 
 ---
 
 ## About Me  
-I’m a passionate web developer who enjoys crafting clean, modern, and scalable solutions.  
-I love exploring diverse technologies—experimenting, learning, and integrating new tools into real products.  
-My core strengths are **WordPress & Laravel development**, **React, Next.js**, and **Three.js**, with a constant desire to push boundaries.
+I’m a passionate **Backend Developer** focused on building robust, scalable, and maintainable web applications.  
+My main expertise lies in **Laravel and WordPress development**, where I design efficient architectures, develop APIs, and create high-performance backend systems.  
+
+While backend development is my core strength, I am also **familiar with modern frontend technologies** such as **React, Next.js, Tailwind CSS, and Three.js**, allowing me to collaborate effectively across the full stack.  
+
+I have a solid understanding of **Design Patterns**, **MVC Architecture**, and **Clean Code principles**, and I always strive to write modular and maintainable code.  
+Additionally, I’m mindful of **UI/UX principles**, ensuring that the systems I build contribute to a smooth and intuitive user experience.
 
 ---
 
@@ -52,11 +56,13 @@ My core strengths are **WordPress & Laravel development**, **React, Next.js**, a
 ---
 
 ## Skills  
-- PHP / Laravel / WordPress Plugin Development  
-- JavaScript (ES6+) / React / Next.js / Tailwind CSS  
-- Three.js & React Three Fiber (3D Web)  
-- API Integration  
+- Backend Development (PHP / Laravel / WordPress)  
+- RESTful API Design & Integration  
+- WordPress Plugin & Custom Development  
+- Familiar with Frontend (React / Next.js / Tailwind CSS / Three.js)  
+- Design Patterns & MVC Architecture  
 - Clean Architecture & Modular Code  
+- UI/UX Principles Awareness  
 - Git / GitHub Workflow  
 
 ---
