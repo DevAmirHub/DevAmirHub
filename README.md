@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Amir Fallahi — DevAmirHub</h1>
+<h1 align="center"> Hi, I'm Amir Fallahi — DevAmirHub</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF">
@@ -10,14 +10,14 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I’m a passionate web developer who enjoys crafting clean, modern, and scalable solutions.  
 I love exploring diverse technologies—experimenting, learning, and integrating new tools into real products.  
 My core strengths are **WordPress & Laravel development**, **React, Next.js**, and **Three.js**, with a constant desire to push boundaries.
 
 ---
 
-## 🛡️ Badges & Tech Stack
+## Badges & Tech Stack
 
 <p align="center">
 
@@ -51,7 +51,7 @@ My core strengths are **WordPress & Laravel development**, **React, Next.js**, a
 
 ---
 
-## 🧠 Skills  
+## Skills  
 - PHP / Laravel / WordPress Plugin Development  
 - JavaScript (ES6+) / React / Next.js / Tailwind CSS  
 - Three.js & React Three Fiber (3D Web)  
@@ -61,7 +61,7 @@ My core strengths are **WordPress & Laravel development**, **React, Next.js**, a
 
 ---
 
-## 📬 Contact  
+## Contact  
 **Name:** Amir Fallahi  
 **Email:** devamir99@gmail.com  
 **GitHub:** https://github.com/DevAmirHub
