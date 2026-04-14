@@ -12,9 +12,9 @@
 
 ## About Me  
 I’m a passionate **Backend Developer** focused on building robust, scalable, and maintainable web applications.  
-My main expertise lies in **Laravel and WordPress development**, where I design efficient architectures, develop APIs, and create high-performance backend systems.  
+My main expertise lies in **Laravel and WordPress development**, where I design efficient architectures, develop APIs, and create high-performance backend systems and familiar with NestJs and architectures of it.
 
-While backend development is my core strength, I am also **familiar with modern frontend technologies** such as **React, Next.js, Tailwind CSS, and Three.js**, allowing me to collaborate effectively across the full stack.  
+While backend development is my core strength, I am also **familiar with modern frontend technologies** such as **React, Next.js, Livewire 3 and Css Freamwork like Tailwind CSS, and 3D Library like Three.js**, allowing me to collaborate effectively across the full stack.  
 
 I have a solid understanding of **Design Patterns**, **MVC Architecture**, and **Clean Code principles**, and I always strive to write modular and maintainable code.  
 Additionally, I’m mindful of **UI/UX principles**, ensuring that the systems I build contribute to a smooth and intuitive user experience.
@@ -59,11 +59,14 @@ Additionally, I’m mindful of **UI/UX principles**, ensuring that the systems I
 - Backend Development (PHP / Laravel / WordPress)  
 - RESTful API Design & Integration  
 - WordPress Plugin & Custom Development  
-- Familiar with Frontend (React / Next.js / Tailwind CSS / Three.js)  
+- Familiar with Frontend (React / Next.js / Tailwind CSS / Three.js)
+- Familiar with JS | NodeJs | NestJs | ExpressJS
 - Design Patterns & MVC Architecture  
 - Clean Architecture & Modular Code  
 - UI/UX Principles Awareness  
-- Git / GitHub Workflow  
+- Git / GitHub Workflow
+- Familiar Agile & Scrum
+- Familiar with Docker!
 
 ---
 
