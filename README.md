@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Web Developer | WordPress & Laravel | React, Next.js & Three.js Enthusiast</b>
+  <b>Web Developer | WordPress & Laravel | React, Next.js & Three.js Enthusiast</b>
 </p>
 
 ---
 
 ## 🚀 About Me  
-I’m a passionate full-stack developer who enjoys crafting clean, modern, and scalable solutions.  
+I’m a passionate web developer who enjoys crafting clean, modern, and scalable solutions.  
 I love exploring diverse technologies—experimenting, learning, and integrating new tools into real products.  
 My core strengths are **WordPress & Laravel development**, **React, Next.js**, and **Three.js**, with a constant desire to push boundaries.
 
