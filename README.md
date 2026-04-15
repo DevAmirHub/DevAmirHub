@@ -5,19 +5,20 @@
 </p>
 
 <p align="center">
-  <b>Backend Developer | Laravel & WordPress Specialist | Familiar with Modern Frontend Technologies</b>
+  <b>Backend Developer | Laravel & WordPress Specialist | Experienced with Modern Frontend Technologies</b>
 </p>
 
 ---
 
 ## About Me  
 I’m a passionate **Backend Developer** focused on building robust, scalable, and maintainable web applications.  
-My main expertise lies in **Laravel and WordPress development**, where I design efficient architectures, develop APIs, and create high-performance backend systems and familiar with NestJs and architectures of it.
 
-While backend development is my core strength, I am also **familiar with modern frontend technologies** such as **React, Next.js, Livewire 3 and Css Freamwork like Tailwind CSS, and 3D Library like Three.js**, allowing me to collaborate effectively across the full stack.  
+My main expertise lies in **Laravel and WordPress development**, where I design efficient architectures, develop RESTful APIs, and build high-performance backend systems. I also have experience with **NestJS** and its architectural patterns.  
 
-I have a solid understanding of **Design Patterns**, **MVC Architecture**, and **Clean Code principles**, and I always strive to write modular and maintainable code.  
-Additionally, I’m mindful of **UI/UX principles**, ensuring that the systems I build contribute to a smooth and intuitive user experience.
+While backend development is my core strength, I have solid experience working with modern frontend technologies such as **React, Next.js, Livewire 3**, and CSS frameworks like **Tailwind CSS**, as well as 3D libraries like **Three.js**. This allows me to collaborate effectively across the full stack.  
+
+I have a strong understanding of **Design Patterns**, **MVC Architecture**, and **Clean Code principles**, and I always strive to write modular, maintainable, and scalable code.  
+Additionally, I pay attention to **UI/UX principles** to ensure the systems I build provide a smooth and intuitive user experience.
 
 ---
 
@@ -59,15 +60,15 @@ Additionally, I’m mindful of **UI/UX principles**, ensuring that the systems I
 - Backend Development (PHP / Laravel / WordPress)  
 - RESTful API Design & Integration  
 - WordPress Plugin & Custom Development  
-- Familiar with Frontend (React / Next.js / Tailwind CSS / Three.js)
-- Familiar with JS | NodeJs | NestJs | ExpressJS
-- Familiar with Livewire3 & AlpineJs
+- JavaScript / Node.js (NestJS, Express)  
+- Frontend Experience (React / Next.js / Tailwind CSS / Three.js)  
+- Livewire 3 & Alpine.js  
 - Design Patterns & MVC Architecture  
 - Clean Architecture & Modular Code  
 - UI/UX Principles Awareness  
-- Git / GitHub Workflow
-- Familiar Agile & Scrum
-- Familiar with Docker!
+- Git / GitHub Workflow  
+- Agile & Scrum Methodologies  
+- Docker (Basic Knowledge)  
 
 ---
 
