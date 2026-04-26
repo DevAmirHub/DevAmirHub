@@ -79,11 +79,6 @@ Additionally, I pay attention to **UI/UX principles** to ensure the systems I bu
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAmirHub&show_icons=true" />
-</p>
-
-
 <br/>
 
 <p align="center">
