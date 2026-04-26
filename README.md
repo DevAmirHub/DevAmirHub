@@ -35,11 +35,12 @@ Additionally, I pay attention to **UI/UX principles** to ensure the systems I bu
 <!-- Backend / CMS -->
 <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" />
+<!-- <img src="https://img.shields.io/badge/PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" /> -->
 
 <br/>
 
 <!-- Frontend -->
+<img src="https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge" />
