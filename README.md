@@ -35,7 +35,7 @@ Additionally, I pay attention to **UI/UX principles** to ensure the systems I bu
 <!-- Backend / CMS -->
 <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white&style=for-the-badge" />
-<!-- <img src="https://img.shields.io/badge/PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" /> -->
+<img src="https://img.shields.io/badge/PHP-777BB3?logo=php&logoColor=white&style=for-the-badge" /> 
 
 <br/>
 
@@ -44,8 +44,13 @@ Additionally, I pay attention to **UI/UX principles** to ensure the systems I bu
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black&style=for-the-badge" />
+
 <br/>
 
 <!-- Tools -->
