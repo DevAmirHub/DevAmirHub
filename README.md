@@ -32,15 +32,6 @@ Additionally, I pay attention to **UI/UX principles** to ensure the systems I bu
 
 <br/>
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react" />
-
-<br/>
-
 <!-- Backend / CMS -->
 <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white&style=for-the-badge" />
@@ -48,9 +39,18 @@ Additionally, I pay attention to **UI/UX principles** to ensure the systems I bu
 
 <br/>
 
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react" />
+<br/>
+
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+
 
 </p>
 
@@ -61,7 +61,7 @@ Additionally, I pay attention to **UI/UX principles** to ensure the systems I bu
 - RESTful API Design & Integration  
 - WordPress Plugin & Custom Development  
 - JavaScript / Node.js (NestJS, Express)  
-- Frontend Experience (React / Next.js / Tailwind CSS / Three.js)  
+- Frontend Experience (React / Next.js / Tailwind CSS / Three.js/gsap/react three fiber)  
 - Livewire 3 & Alpine.js  
 - Design Patterns & MVC Architecture  
 - Clean Architecture & Modular Code  
@@ -82,3 +82,26 @@ Additionally, I pay attention to **UI/UX principles** to ensure the systems I bu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevAmirHub&show_icons=true" />
 </p>
+
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAmirHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAmirHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmirHub&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevAmirHub&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
